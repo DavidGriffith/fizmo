@@ -21,6 +21,7 @@
 [submodule "fizmo-glktermw"]
 	path = fizmo-glktermw
 	url = https://github.com/chrender/fizmo-glktermw
+	branch = upstream
 [submodule "libpixelif"]
 	path = libpixelif
 	url = https://github.com/chrender/libpixelif
